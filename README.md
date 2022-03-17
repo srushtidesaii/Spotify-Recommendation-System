@@ -3,7 +3,7 @@
 Click [here](https://github.com/srushtidesaii/Spotify-Recommendation-System/blob/main/Spotify%20(4).ipynb) to check out the whole Jupyter Notebook for the implementation of Spotify Recommendation System using Machine Learning (Content Based Filtering) in Python. <br>
 Generate recommendations for any one of the spotify playlists. The following parts will be covered:
 
-## Data Expolaration/Preprocessing 
+## Data Cleaning/Expolaration/Preprocessing 
 
 Download datasets here: https://www.kaggle.com/vatsalmavani/music-recommendation-system-using-spotify-dataset/data
 
